@@ -1,8 +1,7 @@
 echo "Hello World"
 echo "This is our first Shell Script"
 
-date
-
+echo "Present working directory"
 pwd
 
 ##Above Shellscript is basic and simple where we passed few commnads
