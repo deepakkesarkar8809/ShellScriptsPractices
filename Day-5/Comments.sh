@@ -4,8 +4,8 @@
 # Script to install Nginx and check its status
 # --------------------------------------------------------------
 
-## In the below line we can comment out in the script
-## Single Inverted comma mean its stonng quote , it will print everuthing as it is.
+# In the below line, we can use a comment to explain:
+# Single quotes mean a *strong quote* — everything inside will be printed exactly as-is, without variable or escape character expansion.
 
 echo "
 ###############################################################
