@@ -6,8 +6,6 @@
 name="Vishal" 
 age="29"
 
-## System define variables
-
 echo ${name}
 
 echo "My name is ${name} and my age is ${age}" 
